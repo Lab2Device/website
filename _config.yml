@@ -1,6 +1,8 @@
-title: Research Project at Offenburg University
+title: Research Project
 logo: logo.png
 description: Funded by Carl Zeiss Stiftung
 show_downloads: false
+show_github: false
 google_analytics:
 theme: jekyll-theme-minimal
+footer_text: "© 2026 Lab2Device"
