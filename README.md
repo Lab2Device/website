@@ -1,5 +1,5 @@
 # Project Oveview
-Runtime: 4/26-10/29
+*Runtime: 4/26-10/29*
 
 Increasingly powerful AI models also increase their resource requirements (computing power, storage space, energy). Many end devices cannot meet these resource requirements, which is why AI models are often mapped in the cloud. The constant communication between the end device and the cloud leads to high energy consumption, impaired privacy and model availability.
 
