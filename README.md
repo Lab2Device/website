@@ -9,8 +9,10 @@ The methods are developed on the basis of two representative use cases (battery 
 This project is funded by the [Carl Zeiss Stiftung](https://www.carl-zeiss-stiftung.de/en/project-overview/detail/lab2device-from-the-prototyping-lab-to-the-resource-limited-embedded-device#:~:text=The%20%22Lab2Device%22%20project%20is%20developing%20an%20approach,models%20for%20use%20in%20resource%2Dlimited%20end%20devices.)
 
 ## Partners
+&nbsp;<img src="hso.png" width=150>&nbsp;&nbsp;
 
 ## People
+### Coordinator
 
 ### PI
 
