@@ -26,7 +26,7 @@ This project is funded by the [Carl Zeiss Stiftung](https://www.carl-zeiss-stift
 * **Prof. Dr. Stefan Hensel**
 * **Prof. Dr.-Ing. Janis Keuper**
   * Neural Architecture Search, Tiny Recursive Models
-  * [Institute for Machine Learning and Analytics](imla.hs-offenburg.de) | [Keuper Lab](www.keuper-labs.org)
+  * [Institute for Machine Learning and Analytics](https://imla.hs-offenburg.de) | [Keuper Lab](https://www.keuper-labs.org)
 * **Prof. Dr. Stefan Hensel**
 * **Prof. Dr. Axel Sikora**
 
